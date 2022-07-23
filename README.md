@@ -28,6 +28,7 @@ GGSIP University USS ACM Student Chapter is an official student body incepted in
 <img height="120px" src="https://usict.acm.org/assets/images/team/jaspreeti-singh.jpg">
 </p>
 
+
 <p align="center"
 <img height="120px" src="https://usict.acm.org/assets/images/team/anurag.jpg">
 <img height="120px" src="https://usict.acm.org/assets/images/team/harshGoyal.png">
